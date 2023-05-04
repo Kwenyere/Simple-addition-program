@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #E76161;
+}
+
+h1{
+    text-align: center;
+    margin-top: 10vw;
+    color: #fff;
+}
+
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5vw;
+    gap: 20px;
+}
+
+#first-input,#second-input,#btn{
+    height: 8vh;
+    font-size: 1.5rem;
+}
+
+#btn{
+    width: 5vw;
+}
+
+.result{
+    text-align: center;
+    font-size: 2.5rem;
+    color: #fff;
+    margin-top: 2vw;
+    font-weight: bold;
+}
