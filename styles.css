@@ -25,6 +25,8 @@ h1{
 #first-input,#second-input,#btn{
     height: 8vh;
     font-size: 1.5rem;
+    border: none;
+    border-radius: 10px;
 }
 
 #btn{
